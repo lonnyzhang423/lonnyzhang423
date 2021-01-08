@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am lonnyzhang 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lonnyzhang423&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+- :robot: Focusing on Android
+- :coffee: Java & Spring Boot
+- :dolphin: MySQL & Redis
+- :whale: Docker
 
 <!--
 **lonnyzhang423/lonnyzhang423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lonnyzhang423&show_icons=true&count_private=true&hide_title=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonnyzhang423&hide_title=true&layout=compact)
 -->
