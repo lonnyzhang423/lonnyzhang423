@@ -1,6 +1,6 @@
 ### Hi,I am lonny. 👋
 
-- :robot: An Android Develper
+- :robot: Android Develper
 - :whale: Interested in Docker & Spring Boot & MySQL & Redis
 
 <!--
