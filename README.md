@@ -1,7 +1,7 @@
 ### Hi,I am lonny. 👋
 
 - :robot: Android Develper
-- :whale: Interested in Docker & Spring Boot & MySQL & Redis
+- :whale: Interested in Go & Docker & MySQL & Redis
 
 <!--
 **lonnyzhang423/lonnyzhang423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
