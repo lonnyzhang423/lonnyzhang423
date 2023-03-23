@@ -1,7 +1,7 @@
 ### Hi, I'm lonny.
 
 - :robot: Android Develper
-- :whale: Interested in Go, Docker, MySQL, Redis, etc.
+- :whale: Boom Shakalaka
 
 <!--
 **lonnyzhang423/lonnyzhang423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
